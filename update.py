@@ -21,7 +21,7 @@ from sqlalchemy import Column, PickleType, UnicodeText
 import urllib3
 import heroku3
 BASE = declarative_base()
-engine = create_engine("sqlite:///CYthon.db", echo=False)
+engine = create_engine("sqlite:///special_anime9", echo=False)
 
 
 class Cat_GlobalCollection(BASE):
