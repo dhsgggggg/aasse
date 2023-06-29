@@ -7,27 +7,27 @@
   "keywords": ["python", "chatbot", "telegrambot"],
   "website": "https://t.me/special_anime9",
   "env": {
-    "APP_ID": {
-      "description": "الايـبـي ايــدي",
-      "value": "",
+    "APP_ID": "123456"
+      "description": "APP_ID هو معرف التطبيق الذي تم إنشاؤه على موقع Telegram ويتم استخدامه للمصادقة على الوصول إلى واجهة برمجة التطبيقات (API)",
+      "value": "default_value"
       "required": true
     },
-    "APP_HASH": {
+    "APP_HASH": "abcdefg",
       "description": "الايـبـي هــاش",
       "value": "",
       "required": true
     },
-    "TERMUX": {
+    "TERMUX": true,
       "description": "كود تيرمكس",
       "value": "",
       "required": true
     },
-    "TOKEN": {
+    "TOKEN": "xyz123456",
       "description": "توكن البوت",
       "value": "",
       "required": true
     },
-    "BOT_USERNAME": {
+    "BOT_USERNAME": "my_bot_username"
       "description": "يوزر البوت بدون ـ@ـ",
       "value": "",
       "required": true
