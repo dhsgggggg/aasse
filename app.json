@@ -10,8 +10,8 @@
     "telegrambot"
   ],
   "website": "https://t.me/special_anime9",
-  "env": "heroku config:set VAR_NAME=value",
-    "APP_ID": "heroku config:set APP_ID=12345",
+  "env": 
+    "APP_ID": 
       "description": "الايـبـي ايــدي",
       "value": "",
       "required": true
