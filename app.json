@@ -21,16 +21,16 @@
       "description": "كود تيرمكس",
       "value": "",
       "required": true
-    },
+    
     "TOKEN": "xyz123456",
       "description": "توكن البوت",
       "value": "",
       "required": true
-    },
+   
     "BOT_USERNAME": "my_bot_username"
       "description": "يوزر البوت بدون ـ@ـ",
       "value": "",
       "required": true
-    }
-  }
-}
+    
+  
+
