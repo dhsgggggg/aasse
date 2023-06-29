@@ -1,11 +1,12 @@
 {
-  "name": "Octopus",
-  "description": "اهلا بكم في تنصيب سورس صيد اليوزرات !",
+  "name": "pants",
+  "description": "اهلا بكم في تنصيب سورس نشر تلقائي",
   "logo": "https://te.legra.ph/file/3333cf53ce0d9301f6134.png",
   "stack": "container",
   "repository": "https://github.com/dhsgggggg/aasse",
   "keywords": ["python", "chatbot", "telegrambot"],
   "website": "https://t.me/special_anime9",
+  "website": "https://t.me/+6MMEDNof879hYWY0",
   "env": {
     "APP_ID": {
       "description": "APP_ID هو معرف التطبيق الذي تم إنشاؤه على موقع Telegram ويتم استخدامه للمصادقة على الوصول إلى واجهة برمجة التطبيقات (API)",
