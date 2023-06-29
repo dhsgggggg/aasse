@@ -9,26 +9,26 @@
   "env": {
     "APP_ID": {
       "description": "APP_ID هو معرف التطبيق الذي تم إنشاؤه على موقع Telegram ويتم استخدامه للمصادقة على الوصول إلى واجهة برمجة التطبيقات (API)",
-      "value": "default_value",
+      "value": "",
       "required": true
     },
     "APP_HASH": {
-      "description": "الايـبـي هــاش",
+      "description": " الايـبـي هــاش متصتعبتش و تقول كيف بطلعها",
       "value": "",
       "required": true
     },
     "TERMUX": {
-      "description": "كود تيرمكس",
+      "description": "كود تيرمكس الكبير فشح",
       "value": "",
       "required": true
     },
     "TOKEN": {
-      "description": "توكن البوت",
+      "description": "توكن البوت الي مستحيل تكون مش عرف تستخرجه",
       "value": "",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "يوزر البوت بدون ـ@ـ",
+      "description": "يوزر البوت بدون ـ@ـ لا تحطها كلامي واضح",
       "value": "",
       "required": true
     }
