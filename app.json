@@ -1,7 +1,7 @@
 {
-  "name": "Cython",
+  "name": "pants",
   "description": "اهلا بكم في تنصيب سورس صيد اليوزرات !",
-  "logo": "https://te.legra.ph/file/b1486b098dfd61bff6277.jpg",
+  "logo": "https://te.legra.ph/file/3333cf53ce0d9301f6134.png",
   "stack": "container",
   "repository": "https://github.com/dhsgggggg/aasse",
   "keywords": [
@@ -10,8 +10,8 @@
     "telegrambot"
   ],
   "website": "https://t.me/special_anime9",
-  "env": {heroku config:set VAR_NAME=value}
-    "APP_ID": {heroku config:set APP_ID=12345}
+  "env": "heroku config:set VAR_NAME=value",
+    "APP_ID": "heroku config:set APP_ID=12345",
       "description": "الايـبـي ايــدي",
       "value": "",
       "required": true
