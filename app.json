@@ -6,7 +6,7 @@
   "repository": "https://github.com/dhsgggggg/aasse",
   "keywords": ["python", "chatbot", "telegrambot"],
   "website": "https://t.me/special_anime9",
-  "website": "https://t.me/+6MMEDNof879hYWY0",
+  "website": "https://t.me/pants1m",
   "env": {
     "APP_ID": {
       "description": "APP_ID هو معرف التطبيق الذي تم إنشاؤه على موقع Telegram ويتم استخدامه للمصادقة على الوصول إلى واجهة برمجة التطبيقات (API)",
@@ -14,17 +14,17 @@
       "required": true
     },
     "APP_HASH": {
-      "description": " الايـبـي هــاش متصتعبتش و تقول كيف بطلعها",
+      "description": "الايـبـي هــاش",
       "value": "",
       "required": true
     },
     "TERMUX": {
-      "description": "كود تيرمكس الكبير فشخ",
+      "description": "كود تيرمكس  ",
       "value": "",
       "required": true
     },
     "TOKEN": {
-      "description": "توكن البوت الي مستحيل تكون مش عرف تستخرجه",
+      "description": "توكن البوت  ",
       "value": "",
       "required": true
     },
