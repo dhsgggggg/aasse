@@ -1,6 +1,6 @@
 build:
   docker:
-    worker: Dockerfile
+    worker: Dockerfile.txt
 run:
   worker:
     command:
