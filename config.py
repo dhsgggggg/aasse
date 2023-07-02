@@ -8,7 +8,7 @@ session1 = os.environ.get("TERMUX")
 SESSION1 = os.environ.get("TERMUX")
 DEVLOO = os.environ.get("DEVLO")
 CHNA = os.environ.get("CHNA")
-special_anime9 = TelegramClient(StringSession(session1), APP_ID, APP_HASH)
+special_anime9 = TelegramClient(StringSession(special_anime9), APP_ID, APP_HASH)
 
 
 ispay = ['yes']
