@@ -1,3 +1,4 @@
+from .config import API_KEY
 import telethon
 from telethon import events
 from config import *
@@ -642,6 +643,6 @@ async def _(event):
 
 
 
-
 print("- CYthon Userbot Running ..")
 CYthon.run_until_disconnected()
+
