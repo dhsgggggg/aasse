@@ -1,13 +1,16 @@
-from .config import API_KEY
+from telethon.sync import TelegramClient
+from telethon.sessions import StringSession
+import os
+APP_ID = os.environ.get("APP_ID")
+APP_HASH = os.environ.get("APP_HASH")
 
-cd aasse/config
+session1 = os.environ.get("TERMUX")
+SESSION1 = os.environ.get("TERMUX")
+DEVLOO = os.environ.get("DEVLO")
+CHNA = os.environ.get("CHNA")
+special_anime9 = TelegramClient(StringSession(session1), APP_ID, APP_HASH)
 
-touch CYthon.py
 
-nano CYthon.py
-
-API_KEY = "your_api_key_here"
-
-import sys
-sys.path.append('/home/user/aasse/config')
+ispay = ['yes']
+ispay2 = ['yes']
 
