@@ -1,6 +1,6 @@
-export FLASK_APP=app.py
+
+{export FLASK_APP=app.py
 flask run
-{
   "name": "pants",
   "description": "اهلا بكم في تنصيب سورس نشر تلقائي",
   "logo": "https://te.legra.ph/file/3333cf53ce0d9301f6134.png",
