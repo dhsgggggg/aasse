@@ -1,3 +1,5 @@
+export FLASK_APP=app.py
+flask run
 {
   "name": "pants",
   "description": "اهلا بكم في تنصيب سورس نشر تلقائي",
